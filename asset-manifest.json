@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-moview-app/static/js/main.09857b9b.js",
+    "main.js": "/react-moview-app/static/js/main.e843cbff.js",
     "index.html": "/react-moview-app/index.html",
-    "main.09857b9b.js.map": "/react-moview-app/static/js/main.09857b9b.js.map"
+    "main.e843cbff.js.map": "/react-moview-app/static/js/main.e843cbff.js.map"
   },
   "entrypoints": [
-    "static/js/main.09857b9b.js"
+    "static/js/main.e843cbff.js"
   ]
 }
